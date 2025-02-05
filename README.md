@@ -22,13 +22,13 @@ Discord Server Booster is a utility written in Go that allows you to automatical
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Spinayy/Discord-Boost-Bot.git
+   git clone https://github.com/StompZone/DBB
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd discord-server-booster
+   cd DBB
    ```
 
 3. Compile the Go code:
